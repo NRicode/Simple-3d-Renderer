@@ -1,5 +1,5 @@
 # Simple-3d-Renderer
- Simple 3d renderer made from scratch in js with basic raycasting and can .obj file loader
+ Simple 3d renderer made from scratch in js with basic raycasting and .obj file loader
  
 # Demo
 ![Alt Text](https://github.com/NRicode/Simple-3d-Renderer/blob/main/demo.gif "Demo")
